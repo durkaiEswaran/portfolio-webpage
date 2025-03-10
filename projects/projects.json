@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Car Wash Website",
+    "desc": "A responsive car wash website offering booking, services, pricing, customer reviews, and contact information. Built using HTML,CSS,JavaScript,Bootstrap.",
+    "image": "car",
+    "category": "Front-end",
+    "links": {
+      "view": "https://stunning-pegasus-8f635e.netlify.app/",
+      "code": "https://github.com/durkaiEswaran/car-wash-website"
+    }
+  },
+  {
+    "name": "Wedding Event Management",
+    "desc": "Plan and manage weddings seamlessly with vendor coordination, budgeting, guest management, and timeline scheduling. Built using HTML,CSS,Bootstrap,Python,Django and SQL.",
+    "image": "wedding",
+    "category": "Full Stack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/durkaiEswaran/Wedding-event-management-website"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Showcase skills, projects, and experience with a professional portfolio highlighting expertise and achievements. Built using HTML,CSS,JavaScript.",
+    "image": "portfolio",
+    "category": "Full Stack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/durkaiEswaran/car-wash-website"
+    }
+  },
+  {
+    "name": "Snake game",
+    "desc": "Plan and manage weddings seamlessly with vendor coordination, budgeting, guest management, and timeline scheduling. Built using HTML,CSS,JavaScript.",
+    "image": "snake",
+    "category": "Full Stack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/durkaiEswaran/snake-game-py"
+    }
+  },
+  {
+    "name": "Oop coffee maker",
+    "desc": "Plan and manage weddings seamlessly with vendor coordination, budgeting, guest management, and timeline scheduling. Built using HTML,CSS,JavaScript.",
+    "image": "coffee-maker",
+    "category": "Full Stack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/durkaiEswaran/snake-game-py"
+    }
+  }
+]
+  
