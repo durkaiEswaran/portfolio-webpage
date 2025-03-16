@@ -21,7 +21,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Durkai Eswaran";
-            $("#favicon").attr("href", "/assets/images/favicon2.png");
+            $("#favicon").attr("href", "/assets/images/favicon2.jpg");
         }
         else {
             document.title = "Come Back To Portfolio";
