@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.addEventListener('visibilitychange', function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | durkai eswaran";
-            document.getElementById("favicon").setAttribute("href", "assets/images/favicon2.png");
+            document.getElementById("favicon").setAttribute("href", "assets/images/favicon2.jpg");
         } else {
             document.title = "Come Back To Portfolio";
             document.getElementById("favicon").setAttribute("href", "assets/images/favhand.png");
