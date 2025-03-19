@@ -48,6 +48,16 @@
       "view": "#",
       "code": "https://github.com/durkaiEswaran/snake-game-py"
     }
+  },
+  {
+    "name": "Recipe App",
+    "desc": "A Recipe App using Hugging Face API to provide personalized recipe recommendations based on user preferences and ingredients. Built Using HTML,CSS,JavaScript,HuggingFace(API)",
+    "image": "react2",
+    "category": "Full Stack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/durkaiEswaran/Recipe-react-app-api"
+    }
   }
 ]
   
